@@ -1,5 +1,9 @@
 # Flow-1: Pull Docker Image from Docker Hub and Run it
 
+## create nsimbi-riches image and store it on docker hub
+```
+currently trying to creater a docker image for my nsimbi-riches application for demonstration
+
 ## Step-1: Verify Docker version and also login to Docker Hub
 ```
 docker version
